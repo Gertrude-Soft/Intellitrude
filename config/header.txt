@@ -1,0 +1,7 @@
+##
+## Gertrude AI - Intellitrude
+##
+## This Makefile was created using Intellitrude.
+##
+## Gertrude is a powerful and open-source Makefile creation tool!
+##
